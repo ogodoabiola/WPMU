@@ -1,0 +1,55 @@
+.has-foreground-background-color {
+    background-color: #6FABAC;
+}
+
+#wp-block-search__input-4 {
+border-radius: none;
+height: fit-content
+}
+
+.wp-element-button {
+border-radius: none
+background: #C44E05
+}
+
+
+#modal-1-content {
+    background: white;
+    color: grey;
+}
+
+.wp-block-site-title a {
+display: inline-block;
+text-indent: -9999px;
+background: url('https://s.w.org/style/images/about/WordPress-logotype-simplified.png') no-repeat center center;
+background-size: contain;
+width: 100%
+height: 100%;
+}
+
+.wp-block-search__label {
+display: none;
+}
+
+.wp-block-image {
+margin-bottom: -70px;
+}
+
+.wp-block-group.wp-container-17 {
+justify-content: space-around
+}
+
+p.wp-block-site-title.has-x-large-font-size {
+color: orange
+font-weight:800;
+font-style:normal
+}
+
+.wp-elements-dfb0a0589aeaba8192423a2728a6b6a0::before {
+    content: "Proudly powered by ";
+    font-weight: bold;
+}
+
+.wp-block-post-template li:nth-last-child(-n+2) {
+    display: none;
+}
